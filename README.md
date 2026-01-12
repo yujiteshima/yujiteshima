@@ -6,7 +6,9 @@
 
 ## My OSS Projects (Beta)
 - [oss-contribution-graph](https://github.com/yujiteshima/oss-contribution-graph) - Visualize OSS contributions for GitHub profile (v0.0.1 beta)
+<!--
 - [turbo-slide](https://github.com/yujiteshima/turbo-slide) - Hotwire Turbo based slide library (v0.0.1 beta)
+-->
 <!--
 ## GitHub Stats
 ![Yuji's GitHub stats](https://github-readme-stats-three-delta-65.vercel.app/api?username=yujiteshima&show_icons=true)
