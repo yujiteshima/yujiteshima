@@ -2,7 +2,7 @@
 - Web Engineer (Frontend & Backend)
 - Based in Nagoya, Japan
 - Organizer of [Nagoya Frontend User Group](https://nfug.connpass.com/)
-- Contributor to Hotwire
+- Contributor to Hotwired
 
 <!--
 ## GitHub Stats
