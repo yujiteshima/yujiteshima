@@ -15,4 +15,4 @@
 -->
 
 ## OSS Contributions
-![OSS Contributions](https://oss-contribution-graph.vercel.app/api/graph?username=yujiteshima&orgs=rails:CC0000:Rails,hotwired:1a1a1a:Hotwire,bigskysoftware:3d72d7:htmx,facebook:bce2e8:react&months=6)
+![OSS Contributions](https://oss-contribution-graph.vercel.app/api/card?username=yujiteshima&orgs=rails:CC0000:Rails,hotwired:1a1a1a:Hotwire,bigskysoftware:3d72d7:htmx,facebook:bce2e8:react,cupy:B8D34F:cupy&months=6)
