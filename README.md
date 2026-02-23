@@ -15,6 +15,4 @@
 -->
 
 ## OSS Contributions
-![OSS Contributions](https://oss-contribution-graph.vercel.app/api/graph?username=yujiteshima&orgs=rails,hotwired,htmx,react,cupy&months=6)
-
 ![OSS Contributions](https://oss-contribution-graph.vercel.app/api/graph?username=yujiteshima&auto=true)
